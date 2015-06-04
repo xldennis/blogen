@@ -1,2 +1,3 @@
-# blogen
-English Webpage
+blog
+====
+Something about me in English.
