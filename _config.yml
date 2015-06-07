@@ -1,4 +1,5 @@
-url: http://yufree.github.com/blog
+url: http://xldennis.github.com/blogen
+permalink: /:year/:month/:title/
 markdown: kramdown
-author: Miao Yu
+author: Dennis
 pygments: true
