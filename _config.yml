@@ -1,5 +1,0 @@
-url: http://xldennis.github.com/blogen
-permalink: /:year/:month/:title/
-markdown: kramdown
-author: Dennis
-pygments: true
